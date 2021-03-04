@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NotesRCM</string>
+    <string name="msg_add">¿Desea agregar una nota?</string>
+    <string name="msg_delete">¿Estás seguro de eliminar: </string>
+    <string name="btn_add_note">Agregar nota</string>
+    <string name="btn_ace_dialog">Aceptar</string>
+    <string name="btn_can_dialog">Cancelar</string>
+    <string name="btn_importance">Importancia</string>
+    <string name="noteTitle">Título de la nota</string>
+    <string name="noteDetail">Detalle de la nota</string>
+    <string name="deletedNote">Nota eliminada!!</string>
+    <string name="addedNote">Nota agregada!!</string>
+    <string name="updatedNote">Nota actualizada!!</string>
+    <string name="completeData">Ingresa información!</string>
+</resources>
